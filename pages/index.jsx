@@ -83,7 +83,7 @@ export default function Index() {
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/737347015251460156/1313966525111074836/image.png?ex=67520e2f&is=6750bcaf&hm=42cac37cae7dbf90e6a5e0804fcfaf0575adbdec3a14078fb2597caa9f0c5033&=&format=webp&quality=lossless&width=687&height=421"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Gerçekten En İyisi.</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with MusicMaker, the best and most up-to-date bot?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Velocity Client.</p>
                 </div>
                 <img src="https://media.discordapp.net/attachments/1438042367226679310/1438470961681924169/png.sds.png?ex=6916fffa&is=6915ae7a&hm=848ff46c3b9752b0c71661a64ef47fb36345ec78b158dfe08e988f5e34702420&=&format=webp&quality=lossless" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
