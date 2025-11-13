@@ -14,9 +14,8 @@ class MyDocument extends Document {
             content="Bir Hileden Daha Fazlası."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta name="twitter:site" content="@ayikamann" /
+          <meta property="og:url" content="https://discord.gg/5gejGbq5bC" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="MusicMaker" />
           <link
