@@ -17,7 +17,7 @@ class MyDocument extends Document {
           <meta name="twitter:site" content="@ayikamann" /
           <meta property="og:url" content="https://discord.gg/5gejGbq5bC" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="Velpcity" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -28,7 +28,7 @@ class MyDocument extends Document {
             content="Bir Hileden Daha Fazlası."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="Velocity" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
